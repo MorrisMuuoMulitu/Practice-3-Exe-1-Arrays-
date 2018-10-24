@@ -1,0 +1,6 @@
+E:\munka\Morris\Practice3Exe1(Arrays)\Practice3Exe1(Arrays)\bin\Debug\Practice3Exe1(Arrays).exe.config
+E:\munka\Morris\Practice3Exe1(Arrays)\Practice3Exe1(Arrays)\bin\Debug\Practice3Exe1(Arrays).exe
+E:\munka\Morris\Practice3Exe1(Arrays)\Practice3Exe1(Arrays)\bin\Debug\Practice3Exe1(Arrays).pdb
+E:\munka\Morris\Practice3Exe1(Arrays)\Practice3Exe1(Arrays)\obj\Debug\Practice3Exe1(Arrays).csproj.CoreCompileInputs.cache
+E:\munka\Morris\Practice3Exe1(Arrays)\Practice3Exe1(Arrays)\obj\Debug\Practice3Exe1(Arrays).exe
+E:\munka\Morris\Practice3Exe1(Arrays)\Practice3Exe1(Arrays)\obj\Debug\Practice3Exe1(Arrays).pdb
